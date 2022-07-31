@@ -1,0 +1,2 @@
+# Classification-Of-Emotions-in-Speech-By-Using-LSTM-Algorithm-Approach-in-Deep-Learning
+• A system which will helps to recognize the human emotions via speech process and show the desired current emotion of user. • Implemention of model building is conducted using the Deep Neural Network (DNN) and Long Short-Term Memory (LSTM) which will be followed after the audio preprocessing. • Achieved accuracy of 80% on the Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS) and Toronto Emotional Speech Set (TESS) dataset.
